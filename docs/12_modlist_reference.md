@@ -54,6 +54,10 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 5 | Simple Modlist v5.0.1 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290) | `3719546290` | Interface & QoL / Information modlist | Validé | Consultation depuis le menu en jeu / écran Échap selon l'interface du mod. | Permet de consulter plus facilement la liste des mods actifs. |
 | 6 | Fashionist v5.0.2-enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242) | `3720921242` | Cosmétique / Armures / Apparence | Validé | Interface propre au mod / options Fashionist en jeu. | Gestion de l'apparence des armures, armes et options visuelles du personnage. |
 | 7 | Better Thralls v3.0.0-enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511) | `3720904511` | Gameplay / Thralls / Compagnons | Validé | Interface / options propres au mod en jeu. | Mod plus sensible : éviter d'ajouter immédiatement d'autres mods lourds sur les followers. |
+| 8 | Inventory Compactor v5.0.1 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718614759) | `3718614759` | Interface & QoL / Inventaire | Validé | Bouton d'inventaire et menu radial sur conteneurs / stations. | Compactage d'inventaire, restack et rangement des espaces vides. |
+| 9 | Unlock Plus v2.0.1-enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133) | `3720948133` | Interface & QoL / Stockage | Validé | Menu accessible depuis l'inventaire du personnage / options propres au mod. | Mod structurant pour stockage et transferts, à surveiller en multijoueur. |
+| 10 | Follower Remote v5.0.3 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718523921) | `3718523921` | Gameplay / Thralls / Compagnons | Validé | Console : `dc frsettings` ou interface de réglages Xevyr disponible. | Gestion à distance du comportement des followers et thralls. |
+| 11 | Xevyr's Hearthstone v5.0.0 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719642461) | `3719642461` | Gameplay léger / Mobilité | Validé | Cooldown admin : `dc hscooldown x`. | Pierre de retour liée au lit, confort coop à surveiller selon l'équilibre souhaité. |
 
 ## modlist.txt de référence
 
@@ -108,4 +112,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document mis à jour avec les sept premiers mods validés.
+Document mis à jour avec les onze premiers mods validés.
