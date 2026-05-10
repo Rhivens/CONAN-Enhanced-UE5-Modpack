@@ -458,3 +458,33 @@ Décision :
 - Enhanced Builder 2026.5.9 est validé comme mod building / construction avancée ;
 - l'anomalie de l'intro est notée comme mineure et non bloquante ;
 - la base active passe à **32 mods validés**.
+
+## Étape 10.14 - Test isolé : The Compendium of Crawling Chaos Enhanced Edition
+
+Statut : **échec — rejeté / différé**.
+
+Mod : **The Compendium of Crawling Chaos Enhanced Edition**.
+
+Résumé :
+
+- mod testé seul après la base stable de 32 mods ;
+- mod placé provisoirement après **Sorcery Tweaks Enhanced** pour test ;
+- test réalisé dans l'environnement Coop / host local ;
+- freeze complet du PC observé ;
+- clavier inopérant ;
+- `CTRL + ALT + SUPPR` sans réponse ;
+- redémarrage forcé via bouton physique du PC nécessaire.
+
+Action corrective :
+
+- désabonnement du mod ;
+- relance du jeu sans le mod ;
+- retour à la base validée de 32 mods ;
+- plus de freeze après retrait ;
+- environnement redevenu stable.
+
+Décision :
+
+- mod non retenu pour le modpack Coop local à ce stade ;
+- mod à ne pas réintégrer sans nouvelle version, correctif ou test dédié ultérieur ;
+- la base officielle reste à **32 mods actifs validés**.
