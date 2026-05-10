@@ -316,3 +316,34 @@ Décision :
 - Katis_Tattoos est rejeté / différé à cause de sa dépendance Tot Custom, non retenue pour l'objectif coop ;
 - [Enhanced] Face It est rejeté / différé à cause de sa dépendance Tot Sudo, non retenue pour conserver une base coop propre ;
 - les tests effectués directement en mode Coop deviennent la référence de validation principale du projet.
+
+## Étape 10.10 - Pack craft / réparation / stockage
+
+Statut : **validée**.
+
+Mods :
+
+- **Craftable Armor Scraps - Enhanced** ;
+- **TDI_LegendaryRepair [Enhanced]** ;
+- **Organizer Sorting Chest v1.0.0** ;
+- **Automatic Fish Trap v1.0.3**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé directement en mode Coop ;
+- Craftable Armor Scraps validé ingame ;
+- TDI_LegendaryRepair validé ingame ;
+- Organizer Sorting Chest validé ingame ;
+- Automatic Fish Trap validé ingame ;
+- le Sorting Chest fonctionne nickel, y compris avec Unlock Plus déjà présent ;
+- aucun problème bloquant signalé.
+
+Décision :
+
+- Craftable Armor Scraps est validé comme mod de craft / ressources ;
+- TDI_LegendaryRepair est validé comme mod de réparation / confort progression ;
+- Organizer Sorting Chest est validé comme mod de stockage / tri ;
+- Automatic Fish Trap est validé comme mod de ressources / automatisation légère ;
+- la compatibilité Organizer Sorting Chest + Unlock Plus est jugée positive à ce stade.
