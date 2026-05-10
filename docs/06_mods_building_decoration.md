@@ -8,7 +8,10 @@ Documenter les mods liés à la construction, aux pièces de bâtiment, aux déc
 
 **En cours.**
 
-Premier pack Building & Décoration testé : **Étape 10.8 - Pack visuel / déco / building léger**.
+Packs Building & Décoration actuellement validés :
+
+- **Étape 10.8 - Pack visuel / déco / building léger** ;
+- **Étape 10.13 - Pack building / décoration avancée**.
 
 Attention : **Lisas Building Stone Age est rejeté définitivement** après apparition d'une erreur de parsing du fichier `.pak` et affichage explicite en `<corrupted>` dans le menu Mods.
 
@@ -78,6 +81,86 @@ Les mods de cette catégorie devront :
 - Test réalisé dans le pack 10.8.
 - Objets de décoration visibles / testés.
 - Fonctionnement validé ingame.
+
+---
+
+### Ancient Civilization - Enhanced
+
+- Catégorie : building / décoration avancée.
+- Source : Steam Workshop.
+- Workshop ID : `3721996090`.
+- Lien : https://steamcommunity.com/sharedfiles/filedetails/?id=3721996090
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.13.
+- Pièces de construction testées.
+- Jeu stable.
+- Aucune erreur signalée.
+
+#### Conclusion
+
+**Ancient Civilization - Enhanced est validé pour le modpack.**
+
+---
+
+### Desert Town
+
+- Catégorie : building / décoration avancée.
+- Source : Steam Workshop.
+- Workshop ID : `3721019326`.
+- Lien : https://steamcommunity.com/sharedfiles/filedetails/?id=3721019326
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.13.
+- Pièces de construction testées.
+- Jeu stable.
+- Aucune erreur signalée.
+
+#### Conclusion
+
+**Desert Town est validé pour le modpack.**
+
+---
+
+### Enhanced Builder 2026.5.9
+
+- Catégorie : building / construction avancée.
+- Source : Steam Workshop.
+- Workshop ID : `3720763208`.
+- Lien : https://steamcommunity.com/sharedfiles/filedetails/?id=3720763208
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.13.
+- Pièces de construction testées.
+- Jeu stable.
+- Aucune erreur signalée.
+
+#### Note mineure
+
+Après ajout du pack 10.13, l'intro du jeu ne peut plus être passée au clic souris.
+
+Cette anomalie est considérée comme **mineure et non bloquante**, car :
+
+- le jeu reste stable ;
+- aucun message d'erreur n'est signalé ;
+- le gameplay n'est pas compromis ;
+- les pièces de construction fonctionnent correctement.
+
+#### Conclusion
+
+**Enhanced Builder 2026.5.9 est validé pour le modpack.**
 
 ## Mods rejetés ou différés
 
@@ -154,3 +237,9 @@ Conclusion initiale : **test OK, builds OK**.
 Conclusion après incident : **base validée jusqu'au mod 22 sans Lisas Building Stone Age**.
 
 Conclusion finale : **Lisas Building Stone Age rejeté définitivement pour instabilité**.
+
+Le pack 10.13 a été testé en mode Coop.
+
+Conclusion pack 10.13 : **test validé, jeu stable, aucune erreur, pièces de construction testées et OK**.
+
+Anomalie mineure observée après le pack 10.13 : **l'intro ne peut plus être passée au clic souris**. Non bloquant.
