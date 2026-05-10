@@ -258,3 +258,32 @@ Décision :
 - la nudité totale reste activée par défaut dans le cadre du modpack ;
 - le mod demande une prise en main spécifique et ne se présente pas comme un simple menu de réglages classique ;
 - les futurs mods NSFW devront être testés avec prudence, idéalement un par un ou en très petit lot.
+
+## Étape 10.8 - Pack visuel / déco / building léger
+
+Statut : **validée**.
+
+Mods :
+
+- **Panda's Bloody Mess** ;
+- **More Clan Emblems Enhanced** ;
+- **SH - Decorations v1.0.0 (Enhanced)** ;
+- **Lisas Building Stone Age**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé en host local solo ;
+- effets visuels / emblèmes / décorations / builds testés ;
+- test OK ;
+- builds OK ;
+- aucun problème bloquant signalé.
+
+Décision :
+
+- Panda's Bloody Mess est validé comme mod visuel / ambiance gore ;
+- More Clan Emblems Enhanced est validé comme mod de personnalisation de clan ;
+- SH - Decorations est validé comme mod de décoration ;
+- Lisas Building Stone Age est validé comme mod de building / construction ;
+- Pickup+, Less Building Placement Restrictions et LBPR Additional Features restent différés car non visibles via le filtre Workshop Enhanced au moment de la recherche.
