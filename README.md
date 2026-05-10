@@ -6,15 +6,15 @@ Documentation de construction progressive d'un modpack pour **Conan Exiles Enhan
 
 Ce modpack est destiné à une partie privée entre adultes.
 
-Il inclura des mods **NSFW** et la **nudité totale est activée par défaut**.
+Il inclut des mods **NSFW** et la **nudité totale est activée par défaut**.
 
 À savoir avant de rejoindre la partie :
 
 - le contenu du modpack peut afficher de la nudité complète ;
-- certains mods pourront ajouter des mécaniques, animations ou contenus à caractère adulte ;
+- certains mods peuvent ajouter des mécaniques, animations ou contenus à caractère adulte ;
 - chaque joueur doit être informé et d'accord avec ce cadre avant d'installer le modpack ;
 - le modpack est prévu pour un groupe privé, pas pour une diffusion publique ou un serveur ouvert ;
-- les réglages NSFW seront documentés clairement dans la procédure et la modlist.
+- les réglages NSFW sont documentés clairement dans la procédure et la modlist.
 
 L'objectif reste de construire une expérience Conan Exiles Enhanced stable, immersive et confortable, avec une orientation adulte assumée mais encadrée.
 
@@ -24,7 +24,7 @@ Construire un modpack propre, stable et cohérent pour une utilisation en **host
 
 Le projet repart d'une base vanilla UE5 propre, sans reprise brute de l'ancienne modlist UE4.
 
-Le modpack intégrera progressivement :
+Le modpack intègre progressivement :
 
 - des mods QoL et interface ;
 - des améliorations de construction et de décoration ;
@@ -63,7 +63,8 @@ Le modpack intégrera progressivement :
 - performances validées à 90 FPS capés ;
 - host local solo validé ;
 - test multijoueur réel Conan UE5 différé, mais non bloquant ;
-- orientation NSFW validée pour la suite du modpack.
+- orientation NSFW validée ;
+- premier mod NSFW validé : Primal Instinct.
 
 ## Suivre l'avancement du projet
 
@@ -75,6 +76,7 @@ C'est le meilleur point d'entrée pour suivre l'évolution du modpack : dernièr
 
 - **[Guide d'installation joueurs](docs/11_installation_joueurs.md)**
 - **[Modlist de référence et load order](docs/12_modlist_reference.md)**
+- **[Mods NSFW](docs/13_mods_nsfw.md)**
 - **[Résumé de l'état actuel](docs/00_resume_etat_actuel.md)**
 - **[Procédure principale / architecture du modpack](docs/04_architecture_modpack.md)**
 - **[Préparation de la base vanilla](docs/01_preparation_base_vanilla.md)**
