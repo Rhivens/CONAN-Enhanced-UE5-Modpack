@@ -98,3 +98,23 @@ Résumé :
 - structure documentaire et catégories de mods validées ;
 - dépôt GitHub créé ;
 - documentation initiale mise en place.
+
+## Étape 10.1 - Interface & QoL : Simple Minimap
+
+Statut : **validée**.
+
+Mod : **Simple Minimap (by Xevyr) v5.1.1**.
+
+Résumé :
+
+- abonnement Steam Workshop effectué ;
+- fichier `.pak` confirmé dans le dossier Workshop `440900/3719513784` ;
+- mod non visible dans l'onglet Mods du launcher Funcom ;
+- mod visible dans le menu Mods directement en jeu ;
+- mod activé depuis le menu Mods en jeu ;
+- minimap fonctionnelle ingame.
+
+Décision :
+
+- Simple Minimap est validé comme premier mod Interface & QoL ;
+- pour la suite, le menu Mods en jeu devient la référence principale de vérification, car le launcher Funcom peut ne pas afficher certains mods Workshop.
