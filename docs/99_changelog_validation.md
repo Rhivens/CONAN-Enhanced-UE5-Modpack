@@ -206,3 +206,32 @@ Décision :
 - Fashionist est validé comme premier mod du bloc Cosmétiques, Armures & Vêtements ;
 - Better Thralls est validé comme premier mod du bloc Gameplay, Thralls & Animaux ;
 - Better Thralls touche à des systèmes plus sensibles, donc éviter d'ajouter immédiatement d'autres mods lourds sur les followers tant que la stabilité n'est pas mieux éprouvée.
+
+## Étape 10.6 - Pack QoL avancé
+
+Statut : **validée**.
+
+Mods :
+
+- **Inventory Compactor v5.0.1 by Xevyr** ;
+- **Unlock Plus v2.0.1-enhanced** ;
+- **Follower Remote v5.0.3 by Xevyr** ;
+- **Xevyr's Hearthstone v5.0.0**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé en host local solo ;
+- Inventory Compactor validé ingame ;
+- Unlock Plus validé ingame ;
+- Follower Remote validé ingame ;
+- Xevyr's Hearthstone validé ingame ;
+- aucun problème bloquant signalé.
+
+Décision :
+
+- Inventory Compactor et Unlock Plus complètent le bloc Interface & QoL / inventaire / stockage ;
+- Follower Remote complète le bloc Gameplay, Thralls & Animaux ;
+- Xevyr's Hearthstone est validé comme mod de confort gameplay / mobilité ;
+- Unlock Plus et les mods followers devront être surveillés lors des futurs tests multijoueur.
