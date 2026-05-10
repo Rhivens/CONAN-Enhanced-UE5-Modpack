@@ -71,11 +71,11 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 21 | Organizer Sorting Chest v1.0.0 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723101055) | `3723101055` | Interface & QoL / Stockage / Tri | Validé | Coffre de tri / fonctionnement propre au mod. | Fonctionne nickel avec Unlock Plus déjà présent. |
 | 22 | Automatic Fish Trap v1.0.3 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720452046) | `3720452046` | Gameplay léger / Ressources | Validé | Piège à poisson automatique selon le fonctionnement du mod. | Validé en mode Coop dans le pack 10.10. |
 
-## Mods suspendus temporairement
+## Mods rejetés définitivement
 
 | Mod | Source | Lien | ID / Référence | Ancien ordre | Statut | Raison |
 |---|---|---|---|---:|---|---|
-| Lisas Building Stone Age | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723560519) | `3723560519` | 16 | Suspendu | Erreur `Corrupted Mods Detected` / `failed to parse mod info` sur `Lisas_Building_Stone_Age.pak`. |
+| Lisas Building Stone Age | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723560519) | `3723560519` | 16 | Rejeté | Mod affiché comme `<corrupted - Lisas_Building_Stone_Age.pak>`, erreur `failed to parse mod info`, version bêta instable récemment mise à jour. |
 
 ## modlist.txt de référence
 
