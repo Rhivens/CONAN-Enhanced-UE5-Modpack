@@ -63,18 +63,25 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 13 | Panda's Bloody Mess | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723576515) | `3723576515` | Visuel / Ambiance gore | Validé | Pas de réglage spécifique identifié pour le moment. | Validé dans le pack 10.8. |
 | 14 | More Clan Emblems Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723546665) | `3723546665` | Clan / Emblèmes / Personnalisation | Validé | Via les options de clan / emblèmes du jeu. | Validé dans le pack 10.8. |
 | 15 | SH - Decorations v1.0.0 (Enhanced) | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723606644) | `3723606644` | Décoration / Placeables | Validé | Objets déco craftables / spawnables selon le mod. | Objets déco testés ingame. |
-| 16 | Lisas Building Stone Age | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723560519) | `3723560519` | Building / Construction | Validé | Pièces de construction via le système de build. | Builds testés et validés ingame. |
-| 17 | Topfreedom Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3722359128) | `3722359128` | Cosmétique / NSFW léger / Apparence | Validé | Effet cosmétique lié à l'apparence / nudité selon les réglages du jeu et du mod. | Validé en mode Coop dans le pack 10.9. |
-| 18 | Tanny's WDV Tattoos und Narben - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723007453) | `3723007453` | Cosmétique / Tatouages / Cicatrices | Validé | Tatouages / cicatrices accessibles en jeu selon l'interface du mod. | Validé en mode Coop dans le pack 10.9. |
-| 19 | Sacred Lust armor set | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721257555) | `3721257555` | Armure / Cosmétique / NSFW léger | Validé | Armure craftable / spawnable selon le mod ; compatibilité Fashionist à surveiller. | Validé en mode Coop dans le pack 10.9. |
-| 20 | Craftable Armor Scraps - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723318494) | `3723318494` | Craft / Ressources | Validé | Recettes / craft accessibles selon le mod. | Validé en mode Coop dans le pack 10.10. |
-| 21 | TDI_LegendaryRepair [Enhanced] | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723127994) | `3723127994` | Craft / Réparation | Validé | Recette ou méthode de réparation légendaire propre au mod. | Validé en mode Coop dans le pack 10.10. |
-| 22 | Organizer Sorting Chest v1.0.0 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723101055) | `3723101055` | Interface & QoL / Stockage / Tri | Validé | Coffre de tri / fonctionnement propre au mod. | Fonctionne nickel avec Unlock Plus déjà présent. |
-| 23 | Automatic Fish Trap v1.0.3 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720452046) | `3720452046` | Gameplay léger / Ressources | Validé | Piège à poisson automatique selon le fonctionnement du mod. | Validé en mode Coop dans le pack 10.10. |
+| 16 | Topfreedom Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3722359128) | `3722359128` | Cosmétique / NSFW léger / Apparence | Validé | Effet cosmétique lié à l'apparence / nudité selon les réglages du jeu et du mod. | Validé en mode Coop dans le pack 10.9. |
+| 17 | Tanny's WDV Tattoos und Narben - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723007453) | `3723007453` | Cosmétique / Tatouages / Cicatrices | Validé | Tatouages / cicatrices accessibles en jeu selon l'interface du mod. | Validé en mode Coop dans le pack 10.9. |
+| 18 | Sacred Lust armor set | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721257555) | `3721257555` | Armure / Cosmétique / NSFW léger | Validé | Armure craftable / spawnable selon le mod ; compatibilité Fashionist à surveiller. | Validé en mode Coop dans le pack 10.9. |
+| 19 | Craftable Armor Scraps - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723318494) | `3723318494` | Craft / Ressources | Validé | Recettes / craft accessibles selon le mod. | Validé en mode Coop dans le pack 10.10. |
+| 20 | TDI_LegendaryRepair [Enhanced] | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723127994) | `3723127994` | Craft / Réparation | Validé | Recette ou méthode de réparation légendaire propre au mod. | Validé en mode Coop dans le pack 10.10. |
+| 21 | Organizer Sorting Chest v1.0.0 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723101055) | `3723101055` | Interface & QoL / Stockage / Tri | Validé | Coffre de tri / fonctionnement propre au mod. | Fonctionne nickel avec Unlock Plus déjà présent. |
+| 22 | Automatic Fish Trap v1.0.3 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720452046) | `3720452046` | Gameplay léger / Ressources | Validé | Piège à poisson automatique selon le fonctionnement du mod. | Validé en mode Coop dans le pack 10.10. |
+
+## Mods suspendus temporairement
+
+| Mod | Source | Lien | ID / Référence | Ancien ordre | Statut | Raison |
+|---|---|---|---|---:|---|---|
+| Lisas Building Stone Age | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723560519) | `3723560519` | 16 | Suspendu | Erreur `Corrupted Mods Detected` / `failed to parse mod info` sur `Lisas_Building_Stone_Age.pak`. |
 
 ## modlist.txt de référence
 
 À ce stade, le fichier `modlist.txt` devra refléter l'ordre officiel ci-dessus.
+
+La base actuelle validée contient **22 mods actifs**.
 
 La forme exacte du fichier sera documentée lorsque la liste commencera à se stabiliser.
 
@@ -139,4 +146,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document mis à jour avec les vingt-trois premiers mods validés.
+Document mis à jour avec les vingt-deux mods actifs actuellement validés.
