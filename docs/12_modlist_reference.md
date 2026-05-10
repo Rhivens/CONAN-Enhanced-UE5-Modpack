@@ -40,6 +40,7 @@ Ordre de principe retenu pour le modpack :
 8. Cosmétiques / armures / vêtements
 9. Ambiance visuelle / météo / lumière
 10. Administration / host local
+11. NSFW / contenu adulte
 
 Cette logique pourra être ajustée selon les recommandations propres à certains mods.
 
@@ -58,6 +59,7 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 9 | Unlock Plus v2.0.1-enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133) | `3720948133` | Interface & QoL / Stockage | Validé | Menu accessible depuis l'inventaire du personnage / options propres au mod. | Mod structurant pour stockage et transferts, à surveiller en multijoueur. |
 | 10 | Follower Remote v5.0.3 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718523921) | `3718523921` | Gameplay / Thralls / Compagnons | Validé | Console : `dc frsettings` ou interface de réglages Xevyr disponible. | Gestion à distance du comportement des followers et thralls. |
 | 11 | Xevyr's Hearthstone v5.0.0 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719642461) | `3719642461` | Gameplay léger / Mobilité | Validé | Cooldown admin : `dc hscooldown x`. | Pierre de retour liée au lit, confort coop à surveiller selon l'équilibre souhaité. |
+| 12 | Primal Instinct | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723050568) | `3723050568` | NSFW / Contenu adulte | Validé | Fonctionnement et accès aux options identifiés après prise en main en jeu. | Premier mod NSFW validé. Nudité totale activée par défaut dans le cadre du modpack. |
 
 ## modlist.txt de référence
 
@@ -87,6 +89,14 @@ Chaque mod peut utiliser une méthode différente :
 
 La colonne **Configuration / réglages** sert donc de référence rapide pour savoir où chercher les options de chaque mod.
 
+### Contenu NSFW
+
+Le modpack est destiné à une partie privée entre adultes.
+
+La nudité totale est activée par défaut, et les mods NSFW doivent être installés et testés avec prudence.
+
+Les joueurs doivent être informés du contenu adulte avant installation.
+
 ### Menu Mods en jeu
 
 Pour Conan Exiles Enhanced / UE5, le launcher Funcom peut ne pas afficher certains mods Workshop.
@@ -112,4 +122,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document mis à jour avec les onze premiers mods validés.
+Document mis à jour avec les douze premiers mods validés, dont le premier mod NSFW.
