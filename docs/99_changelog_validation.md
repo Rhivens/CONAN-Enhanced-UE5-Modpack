@@ -261,31 +261,35 @@ Décision :
 
 ## Étape 10.8 - Pack visuel / déco / building léger
 
-Statut : **validée**.
+Statut : **partiellement validée**.
 
-Mods :
+Mods validés actuellement :
 
 - **Panda's Bloody Mess** ;
 - **More Clan Emblems Enhanced** ;
-- **SH - Decorations v1.0.0 (Enhanced)** ;
+- **SH - Decorations v1.0.0 (Enhanced)**.
+
+Mod suspendu :
+
 - **Lisas Building Stone Age**.
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
+- le pack 10.8 avait d'abord été testé avec succès ;
 - effets visuels / emblèmes / décorations / builds testés ;
-- test OK ;
-- builds OK ;
-- aucun problème bloquant signalé.
+- test initial OK ;
+- builds initialement OK ;
+- lors d'un lancement ultérieur, Conan Exiles Enhanced a signalé une erreur `Corrupted Mods Detected` sur `Lisas_Building_Stone_Age.pak` ;
+- après désabonnement de Lisas Building Stone Age, le jeu a réinitialisé la modlist ;
+- Fabien a reconstruit et testé la base jusqu'au mod 22 ;
+- tout est OK jusqu'au mod 22 sans Lisas Building Stone Age.
 
 Décision :
 
 - Panda's Bloody Mess est validé comme mod visuel / ambiance gore ;
 - More Clan Emblems Enhanced est validé comme mod de personnalisation de clan ;
 - SH - Decorations est validé comme mod de décoration ;
-- Lisas Building Stone Age est validé comme mod de building / construction ;
+- Lisas Building Stone Age est suspendu temporairement après erreur de parsing ;
 - Pickup+, Less Building Placement Restrictions et LBPR Additional Features restent différés car non visibles via le filtre Workshop Enhanced au moment de la recherche.
 
 ## Étape 10.9 - Pack apparence / cosmétique / NSFW léger
@@ -347,3 +351,20 @@ Décision :
 - Organizer Sorting Chest est validé comme mod de stockage / tri ;
 - Automatic Fish Trap est validé comme mod de ressources / automatisation légère ;
 - la compatibilité Organizer Sorting Chest + Unlock Plus est jugée positive à ce stade.
+
+## Étape 10.10b - Revalidation de la base après reset modlist
+
+Statut : **validée**.
+
+Résumé :
+
+- après l'erreur sur Lisas Building Stone Age, Conan a réinitialisé la modlist ;
+- Fabien a reconstruit la modlist active sans Lisas Building Stone Age ;
+- test effectué jusqu'au mod 22 ;
+- tout est OK jusqu'au mod 22 ;
+- la base active actuelle est considérée saine.
+
+Décision :
+
+- poursuivre la construction du modpack depuis cette base active saine ;
+- ne pas réintégrer Lisas Building Stone Age tant qu'il n'a pas été retesté isolément.
