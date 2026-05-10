@@ -6,7 +6,9 @@ Documenter les mods liés aux ajustements de gameplay, aux thralls, aux compagno
 
 ## Statut
 
-**À démarrer.**
+**En cours.**
+
+Premier mod Thralls / compagnons validé : **Better Thralls v3.0.0-enhanced**.
 
 ## Critères de sélection
 
@@ -24,7 +26,30 @@ Les mods de cette catégorie devront :
 
 ## Mods validés
 
-À compléter.
+### Better Thralls v3.0.0-enhanced
+
+- Catégorie : Thralls / compagnons / QoL gameplay.
+- Source : Steam Workshop.
+- Workshop ID : `3720904511`.
+- Type : amélioration de la gestion des thralls, pets et followers.
+- Statut : **validé en jeu**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en host local solo dans un pack avec Fashionist.
+- Fonctionnement validé ingame.
+
+#### Note de prudence
+
+Better Thralls touche à des systèmes plus sensibles que les mods purement Interface & QoL.
+
+Pour la suite, éviter d'ajouter immédiatement d'autres mods qui modifient lourdement les followers ou les limites de compagnons tant que la stabilité de ce bloc n'est pas mieux éprouvée.
+
+#### Conclusion
+
+**Better Thralls est validé comme premier mod du bloc Gameplay, Thralls & Animaux.**
 
 ## Mods rejetés ou différés
 
@@ -32,4 +57,6 @@ Les mods de cette catégorie devront :
 
 ## Notes de test
 
-À compléter.
+Better Thralls a été testé dans un mini-pack avec Fashionist.
+
+Aucun problème bloquant signalé.
