@@ -14,6 +14,7 @@ Mods Interface & QoL actuellement validés :
 2. **Stacksize Plus v2.0.0-enhanced**.
 3. **Lore & Loot Highlight v1.0.0 by Xevyr**.
 4. **Twin-Bar v5.0.4 by Xevyr**.
+5. **Simple Modlist v5.0.1 by Xevyr**.
 
 ## Critères de sélection
 
@@ -148,6 +149,37 @@ Le mod fonctionne correctement après réglage / prise en main en jeu.
 #### Conclusion
 
 **Twin-Bar est validé comme quatrième mod du bloc Interface & QoL.**
+
+---
+
+### Simple Modlist v5.0.1 by Xevyr
+
+- Catégorie : Interface & QoL / information modlist.
+- Source : Steam Workshop.
+- Workshop ID : `3719546290`.
+- Type : affichage et consultation de la liste des mods actifs en jeu.
+- Statut : **validé en jeu**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en host local solo.
+- Fonctionnement validé ingame.
+
+#### Intérêt pour le modpack
+
+Simple Modlist permet de consulter plus facilement la liste des mods chargés en jeu.
+
+Ce mod est utile pour :
+
+- vérifier rapidement la modlist active ;
+- aider les joueurs à contrôler leur installation ;
+- faciliter les diagnostics en cas d'erreur de modlist.
+
+#### Conclusion
+
+**Simple Modlist est validé comme cinquième mod du bloc Interface & QoL.**
 
 ## Mods rejetés ou différés
 
