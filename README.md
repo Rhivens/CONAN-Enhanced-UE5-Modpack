@@ -39,6 +39,23 @@ Le projet repart d'une base vanilla UE5 propre, sans reprise brute de l'ancienne
 - host local solo validé ;
 - test multijoueur réel Conan UE5 différé, mais non bloquant.
 
+## Suivre l'avancement du projet
+
+➡️ **[Lire le changelog / résumé de validation](docs/99_changelog_validation.md)**
+
+C'est le meilleur point d'entrée pour suivre l'évolution du modpack : dernières étapes validées, modules terminés ou en cours, décisions importantes, état de stabilité et prochaine reprise.
+
+## Liens utiles
+
+- **[Résumé de l'état actuel](docs/00_resume_etat_actuel.md)**
+- **[Procédure principale / architecture du modpack](docs/04_architecture_modpack.md)**
+- **[Préparation de la base vanilla](docs/01_preparation_base_vanilla.md)**
+- **[Tests graphiques et performances](docs/02_tests_graphiques_performances.md)**
+- **[Tests host local et multijoueur](docs/03_tests_host_local_multijoueur.md)**
+- **[Décisions différées et points à revoir](docs/90_decisions_differees.md)**
+- **[Mods à surveiller](notes/mods_a_surveiller.md)**
+- **[Analyse de l'ancienne modlist UE4](notes/ancienne_modlist_ue4_analyse.md)**
+
 ## Structure documentaire
 
 Les fichiers principaux sont dans `docs/`.
