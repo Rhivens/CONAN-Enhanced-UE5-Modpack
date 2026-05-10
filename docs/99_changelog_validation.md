@@ -139,3 +139,27 @@ Décision :
 - Stacksize Plus est validé comme second mod Interface & QoL ;
 - réglage conseillé au départ : `x5` ;
 - le réglage ne se fait pas depuis le panneau administrateur classique, mais via le menu radial d'un objet avec inventaire.
+
+## Étape 10.3 - Interface & QoL : mini-lot Lore & Loot Highlight + Twin-Bar
+
+Statut : **validée**.
+
+Mods :
+
+- **Lore & Loot Highlight v1.0.0 by Xevyr** ;
+- **Twin-Bar v5.0.4 by Xevyr**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé en host local solo ;
+- Lore & Loot Highlight validé ingame ;
+- Twin-Bar validé ingame après prise en main / réglage ;
+- aucun problème bloquant signalé.
+
+Décision :
+
+- Lore & Loot Highlight est validé comme troisième mod Interface & QoL ;
+- Twin-Bar est validé comme quatrième mod Interface & QoL ;
+- les tests par mini-lots sont acceptés pour les petits mods QoL simples.
