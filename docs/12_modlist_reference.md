@@ -64,6 +64,9 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 14 | More Clan Emblems Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723546665) | `3723546665` | Clan / Emblèmes / Personnalisation | Validé | Via les options de clan / emblèmes du jeu. | Validé dans le pack 10.8. |
 | 15 | SH - Decorations v1.0.0 (Enhanced) | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723606644) | `3723606644` | Décoration / Placeables | Validé | Objets déco craftables / spawnables selon le mod. | Objets déco testés ingame. |
 | 16 | Lisas Building Stone Age | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723560519) | `3723560519` | Building / Construction | Validé | Pièces de construction via le système de build. | Builds testés et validés ingame. |
+| 17 | Topfreedom Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3722359128) | `3722359128` | Cosmétique / NSFW léger / Apparence | Validé | Effet cosmétique lié à l'apparence / nudité selon les réglages du jeu et du mod. | Validé en mode Coop dans le pack 10.9. |
+| 18 | Tanny's WDV Tattoos und Narben - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3723007453) | `3723007453` | Cosmétique / Tatouages / Cicatrices | Validé | Tatouages / cicatrices accessibles en jeu selon l'interface du mod. | Validé en mode Coop dans le pack 10.9. |
+| 19 | Sacred Lust armor set | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721257555) | `3721257555` | Armure / Cosmétique / NSFW léger | Validé | Armure craftable / spawnable selon le mod ; compatibilité Fashionist à surveiller. | Validé en mode Coop dans le pack 10.9. |
 
 ## modlist.txt de référence
 
@@ -93,6 +96,12 @@ Chaque mod peut utiliser une méthode différente :
 
 La colonne **Configuration / réglages** sert donc de référence rapide pour savoir où chercher les options de chaque mod.
 
+### Compatibilité coop
+
+Les tests de Fabien sont effectués directement en **mode Coop**, ce qui est plus représentatif de l'utilisation réelle prévue pour le modpack.
+
+Les mods nécessitant des dépendances non compatibles coop sont rejetés ou différés.
+
 ### Contenu NSFW
 
 Le modpack est destiné à une partie privée entre adultes.
@@ -114,7 +123,7 @@ Méthode de vérification retenue :
 5. activer les mods depuis ce menu ;
 6. respecter le load order officiel ;
 7. redémarrer si le jeu le demande ;
-8. tester en host local solo.
+8. tester en mode Coop / host local.
 
 ### Installation joueurs
 
@@ -126,4 +135,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document mis à jour avec les seize premiers mods validés, dont le premier mod NSFW et le premier pack Building & Décoration.
+Document mis à jour avec les dix-neuf premiers mods validés.
