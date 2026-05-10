@@ -426,3 +426,35 @@ Décision :
 - Dark Decention Cooking and Brewing est validé comme mod de cuisine / brassage / recettes ;
 - Craftable Legendaries devra être surveillé côté équilibrage en usage prolongé ;
 - la base active passe à **29 mods validés**.
+
+## Étape 10.13 - Pack building / décoration avancée
+
+Statut : **validée**.
+
+Mods :
+
+- **Ancient Civilization - Enhanced** ;
+- **Desert Town** ;
+- **Enhanced Builder 2026.5.9**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé directement en mode Coop ;
+- jeu stable ;
+- aucune erreur signalée ;
+- pièces de construction testées et OK ;
+- pack validé.
+
+Anomalie mineure observée :
+
+- l'intro du jeu ne peut plus être passée au clic souris.
+
+Décision :
+
+- Ancient Civilization - Enhanced est validé comme mod building / décoration avancée ;
+- Desert Town est validé comme mod building / décoration avancée ;
+- Enhanced Builder 2026.5.9 est validé comme mod building / construction avancée ;
+- l'anomalie de l'intro est notée comme mineure et non bloquante ;
+- la base active passe à **32 mods validés**.
