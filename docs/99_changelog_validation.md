@@ -429,9 +429,9 @@ Décision :
 
 ## Étape 10.13 - Pack building / décoration avancée
 
-Statut : **validée**.
+Statut : **validée initialement, corrigée ensuite par l'étape 10.15**.
 
-Mods :
+Mods initialement testés :
 
 - **Ancient Civilization - Enhanced** ;
 - **Desert Town** ;
@@ -445,19 +445,23 @@ Résumé :
 - jeu stable ;
 - aucune erreur signalée ;
 - pièces de construction testées et OK ;
-- pack validé.
+- pack initialement validé.
 
 Anomalie mineure observée :
 
-- l'intro du jeu ne peut plus être passée au clic souris.
+- l'intro du jeu ne pouvait plus être passée au clic souris.
 
-Décision :
+Décision initiale :
 
 - Ancient Civilization - Enhanced est validé comme mod building / décoration avancée ;
 - Desert Town est validé comme mod building / décoration avancée ;
-- Enhanced Builder 2026.5.9 est validé comme mod building / construction avancée ;
-- l'anomalie de l'intro est notée comme mineure et non bloquante ;
-- la base active passe à **32 mods validés**.
+- Enhanced Builder 2026.5.9 avait été validé comme mod building / construction avancée ;
+- l'anomalie de l'intro avait d'abord été notée comme mineure et non bloquante ;
+- la base active était passée temporairement à **32 mods validés**.
+
+Correction ultérieure :
+
+- voir l'étape 10.15 pour le retrait de **Enhanced Builder 2026.5.9**.
 
 ## Étape 10.14 - Test isolé : The Compendium of Crawling Chaos Enhanced Edition
 
@@ -487,4 +491,29 @@ Décision :
 
 - mod non retenu pour le modpack Coop local à ce stade ;
 - mod à ne pas réintégrer sans nouvelle version, correctif ou test dédié ultérieur ;
-- la base officielle reste à **32 mods actifs validés**.
+- la base officielle reste provisoirement à **32 mods actifs validés**, avant correction de l'étape 10.15.
+
+## Étape 10.15 - Retrait de Enhanced Builder 2026.5.9
+
+Statut : **validée — mod retiré / différé**.
+
+Mod concerné : **Enhanced Builder 2026.5.9**.
+
+Résumé :
+
+- Fabien a identifié **Enhanced Builder 2026.5.9** comme le mod responsable de l'anomalie de l'intro ;
+- symptôme : l'intro du jeu ne peut plus être passée au clic souris ;
+- l'anomalie avait d'abord été considérée comme mineure et non bloquante après l'étape 10.13 ;
+- décision prise ensuite : retirer le mod afin de conserver une expérience joueur propre dès le lancement.
+
+Action corrective :
+
+- Enhanced Builder 2026.5.9 est retiré du load order actif ;
+- Ancient Civilization - Enhanced et Desert Town restent validés ;
+- la base officielle redescend de **32 mods actifs validés** à **31 mods actifs validés**.
+
+Décision :
+
+- Enhanced Builder 2026.5.9 est déplacé dans les mods rejetés / différés après test ;
+- ne pas le réintégrer sans nouvelle version, correctif ou test isolé spécifique ;
+- poursuivre la construction du modpack depuis la base stable de **31 mods actifs**.
