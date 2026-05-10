@@ -370,3 +370,31 @@ Décision :
 
 - poursuivre la construction du modpack depuis cette base active saine ;
 - ne plus réintégrer Lisas Building Stone Age dans le modpack.
+
+## Étape 10.11 - Pack gameplay léger / confort coop
+
+Statut : **validée**.
+
+Mods :
+
+- **[Enhanced] Player Ignores Follower Collision** ;
+- **Enhanced Gliders** ;
+- **LegitReligious [Enhanced]** ;
+- **Diverse Barkeeps**.
+
+Résumé :
+
+- abonnements Steam Workshop effectués ;
+- mods activés depuis le menu Mods en jeu ;
+- test réalisé directement en mode Coop ;
+- jeu stable ;
+- aucune erreur signalée ;
+- pack validé.
+
+Décision :
+
+- Player Ignores Follower Collision est validé comme mod de confort followers / coop ;
+- Enhanced Gliders est validé comme mod de mobilité / exploration ;
+- LegitReligious est validé comme mod de religion / progression légère, à surveiller en usage prolongé ;
+- Diverse Barkeeps est validé comme mod d'ambiance NPC ;
+- la base active passe à **26 mods validés**.
