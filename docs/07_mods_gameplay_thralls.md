@@ -20,6 +20,9 @@ Mods Gameplay / Thralls actuellement validés :
 8. **Enhanced Gliders**.
 9. **LegitReligious [Enhanced]**.
 10. **Diverse Barkeeps**.
+11. **[Enhanced] Craftable Legendaries**.
+12. **Sorcery Tweaks Enhanced**.
+13. **[Enhanced] Dark Decention Cooking and Brewing**.
 
 ## Critères de sélection
 
@@ -276,6 +279,76 @@ LegitReligious touche potentiellement à des systèmes religieux. Il est validé
 
 **Diverse Barkeeps est validé pour le modpack.**
 
+---
+
+### [Enhanced] Craftable Legendaries
+
+- Catégorie : craft / progression / équipement légendaire.
+- Source : Steam Workshop.
+- Workshop ID : `3721054666`.
+- Type : craft d'objets légendaires.
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.12.
+- Jeu stable et fluide.
+- Aucune erreur signalée.
+
+#### Note de prudence
+
+Ce mod peut influencer l'équilibrage de la progression. Il est validé techniquement, mais il devra être surveillé lors des futures sessions de jeu prolongées.
+
+#### Conclusion
+
+**[Enhanced] Craftable Legendaries est validé pour le modpack.**
+
+---
+
+### Sorcery Tweaks Enhanced
+
+- Catégorie : sorcellerie / gameplay léger.
+- Source : Steam Workshop.
+- Workshop ID : `3723524908`.
+- Type : ajustements liés à la sorcellerie.
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.12.
+- Jeu stable et fluide.
+- Aucune erreur signalée.
+
+#### Conclusion
+
+**Sorcery Tweaks Enhanced est validé pour le modpack.**
+
+---
+
+### [Enhanced] Dark Decention Cooking and Brewing
+
+- Catégorie : cuisine / brassage / recettes.
+- Source : Steam Workshop.
+- Workshop ID : `3721764383`.
+- Type : ajout ou ajustement de recettes de cuisine et brassage.
+- Statut : **validé en mode Coop**.
+
+#### Résultat du test
+
+- Abonnement Steam Workshop effectué.
+- Mod activé depuis le menu Mods en jeu.
+- Test réalisé en mode Coop dans le pack 10.12.
+- Jeu stable et fluide.
+- Aucune erreur signalée.
+
+#### Conclusion
+
+**[Enhanced] Dark Decention Cooking and Brewing est validé pour le modpack.**
+
 ## Mods rejetés ou différés
 
 À compléter.
@@ -290,4 +363,6 @@ Craftable Armor Scraps, TDI_LegendaryRepair, Organizer Sorting Chest et Automati
 
 Player Ignores Follower Collision, Enhanced Gliders, LegitReligious et Diverse Barkeeps ont été testés ensemble dans le pack 10.11.
 
-Conclusion pack 10.11 : **jeu stable, aucune erreur, pack validé en mode Coop**.
+Craftable Legendaries, Sorcery Tweaks Enhanced et Dark Decention Cooking and Brewing ont été testés ensemble dans le pack 10.12.
+
+Conclusion pack 10.12 : **test ingame validé, jeu stable et fluide, aucune erreur**.
