@@ -48,6 +48,8 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 |---:|---|---|---|---|---|---|---|
 | 1 | Simple Minimap (by Xevyr) v5.1.1 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784) | `3719513784` | Interface & QoL | Validé | Visible dans le menu Mods en jeu, pas forcément dans le launcher Funcom. |
 | 2 | Stacksize Plus v2.0.0-enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336) | `3720915336` | Interface & QoL / Inventaire | Validé | Réglage via menu radial d'un objet avec inventaire. Réglage conseillé : x5. |
+| 3 | Lore & Loot Highlight v1.0.0 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718655125) | `3718655125` | Interface & QoL / Repérage visuel | Validé | Mise en évidence d'objets interactifs, lore et loot. |
+| 4 | Twin-Bar v5.0.4 by Xevyr | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719621216) | `3719621216` | Interface & QoL / Hotbar | Validé | Barre rapide avec emplacements secondaires. Fonctionnement validé en jeu. |
 
 ## modlist.txt de référence
 
@@ -88,4 +90,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document initial créé avec les deux premiers mods validés.
+Document mis à jour avec les quatre premiers mods Interface & QoL validés.
