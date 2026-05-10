@@ -2,11 +2,35 @@
 
 Documentation de construction progressive d'un modpack pour **Conan Exiles Enhanced / UE5**.
 
+## Avertissement important - Modpack NSFW
+
+Ce modpack est destiné à une partie privée entre adultes.
+
+Il inclura des mods **NSFW** et la **nudité totale est activée par défaut**.
+
+À savoir avant de rejoindre la partie :
+
+- le contenu du modpack peut afficher de la nudité complète ;
+- certains mods pourront ajouter des mécaniques, animations ou contenus à caractère adulte ;
+- chaque joueur doit être informé et d'accord avec ce cadre avant d'installer le modpack ;
+- le modpack est prévu pour un groupe privé, pas pour une diffusion publique ou un serveur ouvert ;
+- les réglages NSFW seront documentés clairement dans la procédure et la modlist.
+
+L'objectif reste de construire une expérience Conan Exiles Enhanced stable, immersive et confortable, avec une orientation adulte assumée mais encadrée.
+
 ## Objectif
 
-Construire un modpack propre, stable et cohérent pour une utilisation en **host local privé**, principalement pour un groupe de **3 à 4 joueurs**.
+Construire un modpack propre, stable et cohérent pour une utilisation en **host local privé**, principalement pour un groupe de **3 à 4 joueurs adultes**.
 
 Le projet repart d'une base vanilla UE5 propre, sans reprise brute de l'ancienne modlist UE4.
+
+Le modpack intégrera progressivement :
+
+- des mods QoL et interface ;
+- des améliorations de construction et de décoration ;
+- des ajustements légers de gameplay ;
+- des mods cosmétiques ;
+- des mods NSFW compatibles Conan Exiles Enhanced / UE5, testés avec prudence.
 
 ## Philosophie du modpack
 
@@ -16,6 +40,7 @@ Le projet repart d'une base vanilla UE5 propre, sans reprise brute de l'ancienne
 - confort de jeu, qualité de vie et interface améliorée ;
 - construction et décoration enrichies ;
 - gameplay légèrement amélioré, sans transformer le jeu en usine à gaz ;
+- contenu adulte assumé, documenté et réservé au cadre privé du groupe ;
 - compatibilité Conan Exiles Enhanced / UE5 prioritaire.
 
 ## Contexte matériel
@@ -37,7 +62,8 @@ Le projet repart d'une base vanilla UE5 propre, sans reprise brute de l'ancienne
 - gamma ajusté à 1.8 ;
 - performances validées à 90 FPS capés ;
 - host local solo validé ;
-- test multijoueur réel Conan UE5 différé, mais non bloquant.
+- test multijoueur réel Conan UE5 différé, mais non bloquant ;
+- orientation NSFW validée pour la suite du modpack.
 
 ## Suivre l'avancement du projet
 
@@ -67,5 +93,7 @@ Les notes d'analyse, anciennes références et éléments à surveiller sont dan
 ## Règle de travail
 
 Chaque ajout de mod ou bloc de mods devra être documenté, testé et validé avant de passer à la suite.
+
+Pour les mods NSFW, la règle sera encore plus stricte : installation progressive, test isolé ou par très petit lot, vérification de la stabilité, puis documentation claire pour les joueurs.
 
 Le barbare peut manier la hache, mais le moddeur, lui, garde un changelog.
