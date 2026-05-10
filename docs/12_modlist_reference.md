@@ -79,7 +79,6 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 | 29 | [Enhanced] Dark Decention Cooking and Brewing | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721764383) | `3721764383` | Cuisine / Brassage / Recettes | Validé | Recettes cuisine / brassage selon le mod. | Stable et fluide en test Coop, aucune erreur. |
 | 30 | Ancient Civilization - Enhanced | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721996090) | `3721996090` | Building / Décoration avancée | Validé | Pièces / objets de construction selon le mod. | Validé en mode Coop dans le pack 10.13. |
 | 31 | Desert Town | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3721019326) | `3721019326` | Building / Décoration avancée | Validé | Pièces / objets de construction selon le mod. | Validé en mode Coop dans le pack 10.13. |
-| 32 | Enhanced Builder 2026.5.9 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720763208) | `3720763208` | Building / Construction avancée | Validé | Sets de construction via le système de build / marteau. | Validé en mode Coop ; intro non passable au clic souris, anomalie mineure non bloquante. |
 
 ## Mods rejetés définitivement
 
@@ -91,13 +90,14 @@ Cette logique pourra être ajustée selon les recommandations propres à certain
 
 | Mod | Source | Lien | ID / Référence | Ancien ordre | Statut | Raison |
 |---|---|---|---|---:|---|---|
+| Enhanced Builder 2026.5.9 | Steam Workshop | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720763208) | `3720763208` | 32 | Retiré / différé | Identifié comme responsable du blocage de l'intro du jeu, impossible à passer au clic souris. Mod retiré pour conserver une expérience joueur propre dès le lancement. |
 | The Compendium of Crawling Chaos Enhanced Edition | Steam Workshop | À compléter | À compléter | 29 provisoire | Rejeté / différé | Test isolé après la base stable de 32 mods : freeze complet du PC, clavier inopérant, `CTRL + ALT + SUPPR` sans réponse, reset physique nécessaire. Retrait confirmé, retour stabilité OK. |
 
 ## modlist.txt de référence
 
 À ce stade, le fichier `modlist.txt` devra refléter l'ordre officiel ci-dessus.
 
-La base actuelle validée contient **32 mods actifs**.
+La base actuelle validée contient **31 mods actifs**.
 
 La forme exacte du fichier sera documentée lorsque la liste commencera à se stabiliser.
 
@@ -139,14 +139,9 @@ Les joueurs doivent être informés du contenu adulte avant installation.
 
 ### Anomalies mineures non bloquantes
 
-Après validation du pack 10.13, l'intro du jeu ne peut plus être passée au clic souris.
+L'anomalie de l'intro non passable au clic souris a été identifiée comme liée à **Enhanced Builder 2026.5.9**.
 
-Cette anomalie est considérée comme non bloquante à ce stade :
-
-- le jeu reste stable ;
-- aucune erreur n'est signalée ;
-- le gameplay n'est pas compromis ;
-- les pièces de construction testées fonctionnent correctement.
+Le mod a donc été retiré de la base active, afin de conserver une expérience de lancement propre pour les joueurs.
 
 ### Menu Mods en jeu
 
@@ -173,4 +168,4 @@ docs/11_installation_joueurs.md
 
 ## Statut
 
-Document mis à jour avec les trente-deux mods actifs actuellement validés, et les rejets/différés connus après test.
+Document mis à jour avec les trente-et-un mods actifs actuellement validés, et les rejets/différés connus après test.
