@@ -517,3 +517,73 @@ Décision :
 - Enhanced Builder 2026.5.9 est déplacé dans les mods rejetés / différés après test ;
 - ne pas le réintégrer sans nouvelle version, correctif ou test isolé spécifique ;
 - poursuivre la construction du modpack depuis la base stable de **31 mods actifs**.
+
+## Étape 10.16 - Test isolé : [Enhanced] Derketo Acolyte Replacer
+
+Statut : **validée**.
+
+Mod :
+
+- **[Enhanced] Derketo Acolyte Replacer**.
+
+Résumé :
+
+- mod ajouté après retrait de Enhanced Builder 2026.5.9 ;
+- base de départ : 31 mods actifs validés ;
+- mod activé dans le menu Mods en jeu ;
+- lancement du jeu OK ;
+- chargement Coop / host local OK ;
+- test ingame validé ;
+- aucune erreur signalée ;
+- aucun freeze ;
+- aucun comportement bloquant observé.
+
+Décision :
+
+- [Enhanced] Derketo Acolyte Replacer est validé comme mod cosmétique / NSFW léger ;
+- la base active passe à **32 mods actifs validés**.
+
+## Étape 10.17 - Test isolé : CNC - Enhanced
+
+Statut : **validée**.
+
+Mod :
+
+- **CNC - Enhanced**.
+
+Résumé :
+
+- mod ajouté après la base stable de 32 mods ;
+- intro toujours passable au clic souris ;
+- lancement du jeu OK ;
+- chargement en jeu OK ;
+- test ingame validé ;
+- aucune erreur signalée ;
+- aucun freeze ;
+- aucun comportement bloquant observé.
+
+Décision :
+
+- CNC - Enhanced est validé comme mod cosmétique / contenu léger ;
+- la base active passe à **33 mods actifs validés**.
+
+## Étape 10.18 - Test isolé : [DrK] Spiders to Scorpions [ENHANCED]
+
+Statut : **validée**.
+
+Mod :
+
+- **[DrK] Spiders to Scorpions [ENHANCED]**.
+
+Résumé :
+
+- mod ajouté après la base stable de 33 mods ;
+- test ingame validé ;
+- aucun CTD ;
+- aucun freeze ;
+- aucun comportement bloquant observé.
+
+Décision :
+
+- [DrK] Spiders to Scorpions [ENHANCED] est validé comme mod créatures / gameplay léger ;
+- la base active passe à **34 mods actifs validés**.
