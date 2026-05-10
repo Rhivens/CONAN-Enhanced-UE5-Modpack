@@ -163,3 +163,22 @@ Décision :
 - Lore & Loot Highlight est validé comme troisième mod Interface & QoL ;
 - Twin-Bar est validé comme quatrième mod Interface & QoL ;
 - les tests par mini-lots sont acceptés pour les petits mods QoL simples.
+
+## Étape 10.4 - Interface & QoL : Simple Modlist
+
+Statut : **validée**.
+
+Mod : **Simple Modlist v5.0.1 by Xevyr**.
+
+Résumé :
+
+- abonnement Steam Workshop effectué ;
+- mod activé depuis le menu Mods en jeu ;
+- test réalisé en host local solo ;
+- fonctionnement validé ingame.
+
+Décision :
+
+- Simple Modlist est validé comme cinquième mod Interface & QoL ;
+- ce mod est utile pour consulter plus facilement la liste des mods actifs en jeu ;
+- il aidera les joueurs à vérifier leur installation et facilitera les diagnostics en cas d'erreur de modlist.
