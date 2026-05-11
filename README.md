@@ -1,6 +1,12 @@
-# CONAN Enhanced UE5 Modpack
+<p align="center">
+  <img src="assets/phenix-conan-enhanced-logo.svg" alt="Phénix Conan Enhanced — Blood & Sand Edition" width="720">
+</p>
+
+# Phénix Conan Enhanced — Blood & Sand Edition
 
 Documentation de construction progressive d'un modpack pour **Conan Exiles Enhanced / UE5**.
+
+Ce modpack est conçu pour le clan **Phénix**, avec une orientation coop privée, stable, confortable et assumée : qualité de vie, construction, progression étendue, ambiance barbare, contenu cosmétique et cadre adulte réservé au groupe.
 
 ## Avertissement important - Modpack NSFW
 
@@ -62,9 +68,9 @@ Le modpack intègre progressivement :
 - gamma ajusté à 1.8 ;
 - performances validées à 90 FPS capés ;
 - host local solo validé ;
-- test multijoueur réel Conan UE5 différé, mais non bloquant ;
+- tests effectués directement en Coop / host local pour la construction de la modlist ;
 - orientation NSFW validée ;
-- premier mod NSFW validé : Primal Instinct.
+- modlist actuelle stabilisée à **39 mods actifs validés**.
 
 ## Suivre l'avancement du projet
 
@@ -91,6 +97,8 @@ C'est le meilleur point d'entrée pour suivre l'évolution du modpack : dernièr
 Les fichiers principaux sont dans `docs/`.
 
 Les notes d'analyse, anciennes références et éléments à surveiller sont dans `notes/`.
+
+Les éléments graphiques du projet sont dans `assets/`.
 
 ## Règle de travail
 
