@@ -589,17 +589,40 @@ Décision :
 
 ## Étape 10.23 - Clôture provisoire de la phase d'installation des mods
 
-Statut : **validée**.
+Statut : **validée, puis rouverte pour ajout cosmétique ciblé à l'étape 10.24**.
 
 Résumé :
 
 - tous les mods raisonnables de la liste initiale ont été testés, retenus, rejetés ou remplacés ;
-- aucun autre mod restant n'est prévu pour installation immédiate ;
 - le fichier `modlist.txt` réel fourni par Fabien devient la référence terrain ;
 - le load order officiel est recalé sur ce fichier ;
-- base finale actuelle : **38 mods actifs validés**.
+- base finale à ce moment : **38 mods actifs validés**.
 
 Décision :
 
 - fin provisoire de la phase d'installation de mods ;
-- prochaine étape recommandée : test de stabilité prolongé en Coop / host local avec les 38 mods actifs.
+- phase rouverte ensuite pour ajout de Aquilonian Females Enhanced après test concluant.
+
+## Étape 10.24 - Test isolé : Aquilonian Females Enhanced
+
+Statut : **validée**.
+
+Résumé :
+
+- mod testé dans une nouvelle partie test ;
+- mod ajouté en dernier dans le load order ;
+- Workshop ID : `3721124998` ;
+- fichier `.pak` : `AquilonianFemales_UE5.pak` ;
+- test sur plusieurs tenues ingame ;
+- aucun clipping observé ;
+- ajustement des tenues jugé excellent ;
+- amélioration visuelle du body très concluante ;
+- aucun CTD signalé ;
+- aucun freeze signalé ;
+- aucun comportement bloquant observé.
+
+Décision :
+
+- Aquilonian Females Enhanced est validé comme mod d'apparence / body féminin ;
+- le mod est ajouté en position **39**, tout en fin de load order ;
+- la base active passe à **39 mods actifs validés**.
