@@ -82,12 +82,12 @@ Statut : **différée, non bloquante**.
 
 Résumé :
 
-- test impossible actuellement faute de joueur disponible ;
+- test impossible initialement faute de joueur disponible ;
 - historique d'hébergement solide ;
 - connexion Free 8 Gb/s stable ;
 - sessions multi/coop déjà montées jusqu'à 7 joueurs sur Windrose ;
 - objectif Conan : 3 à 4 joueurs ;
-- test à refaire avant validation finale du modpack.
+- les tests de mods sont ensuite réalisés directement en mode Coop / host local.
 
 ## Étape 9 - Architecture du modpack
 
@@ -108,8 +108,7 @@ Mod : **Simple Minimap (by Xevyr) v5.1.1**.
 Résumé :
 
 - abonnement Steam Workshop effectué ;
-- fichier `.pak` confirmé dans le dossier Workshop `440900/3719513784` ;
-- mod non visible dans l'onglet Mods du launcher Funcom ;
+- fichier `.pak` confirmé ;
 - mod visible dans le menu Mods directement en jeu ;
 - mod activé depuis le menu Mods en jeu ;
 - minimap fonctionnelle ingame.
@@ -117,7 +116,7 @@ Résumé :
 Décision :
 
 - Simple Minimap est validé comme premier mod Interface & QoL ;
-- pour la suite, le menu Mods en jeu devient la référence principale de vérification, car le launcher Funcom peut ne pas afficher certains mods Workshop.
+- pour la suite, le menu Mods en jeu devient la référence principale de vérification.
 
 ## Étape 10.2 - Interface & QoL : Stacksize Plus
 
@@ -130,15 +129,13 @@ Résumé :
 - abonnement Steam Workshop effectué ;
 - mod activé depuis le menu Mods en jeu ;
 - test réalisé en host local solo ;
-- panneau administrateur utilisé pour accélérer le test ;
 - configuration testée via un objet avec inventaire / menu radial ;
 - fonctionnement validé ingame.
 
 Décision :
 
-- Stacksize Plus est validé comme second mod Interface & QoL ;
-- réglage conseillé au départ : `x5` ;
-- le réglage ne se fait pas depuis le panneau administrateur classique, mais via le menu radial d'un objet avec inventaire.
+- Stacksize Plus est validé ;
+- réglage conseillé au départ : `x5`.
 
 ## Étape 10.3 - Interface & QoL : mini-lot Lore & Loot Highlight + Twin-Bar
 
@@ -151,17 +148,14 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
 - mods activés depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
 - Lore & Loot Highlight validé ingame ;
 - Twin-Bar validé ingame après prise en main / réglage ;
 - aucun problème bloquant signalé.
 
 Décision :
 
-- Lore & Loot Highlight est validé comme troisième mod Interface & QoL ;
-- Twin-Bar est validé comme quatrième mod Interface & QoL ;
+- les deux mods sont validés ;
 - les tests par mini-lots sont acceptés pour les petits mods QoL simples.
 
 ## Étape 10.4 - Interface & QoL : Simple Modlist
@@ -172,16 +166,12 @@ Mod : **Simple Modlist v5.0.1 by Xevyr**.
 
 Résumé :
 
-- abonnement Steam Workshop effectué ;
 - mod activé depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
 - fonctionnement validé ingame.
 
 Décision :
 
-- Simple Modlist est validé comme cinquième mod Interface & QoL ;
-- ce mod est utile pour consulter plus facilement la liste des mods actifs en jeu ;
-- il aidera les joueurs à vérifier leur installation et facilitera les diagnostics en cas d'erreur de modlist.
+- Simple Modlist est validé comme outil d'aide au diagnostic et à la vérification de modlist.
 
 ## Étape 10.5 - Pack Fashionist + Better Thralls
 
@@ -194,18 +184,15 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
 - mods activés depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
 - Fashionist validé ingame ;
 - Better Thralls validé ingame ;
 - aucun problème bloquant signalé.
 
 Décision :
 
-- Fashionist est validé comme premier mod du bloc Cosmétiques, Armures & Vêtements ;
-- Better Thralls est validé comme premier mod du bloc Gameplay, Thralls & Animaux ;
-- Better Thralls touche à des systèmes plus sensibles, donc éviter d'ajouter immédiatement d'autres mods lourds sur les followers tant que la stabilité n'est pas mieux éprouvée.
+- Fashionist est validé ;
+- Better Thralls est validé, à surveiller en usage prolongé.
 
 ## Étape 10.6 - Pack QoL avancé
 
@@ -220,23 +207,15 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
-- Inventory Compactor validé ingame ;
-- Unlock Plus validé ingame ;
-- Follower Remote validé ingame ;
-- Xevyr's Hearthstone validé ingame ;
+- les quatre mods sont activés et validés ingame ;
 - aucun problème bloquant signalé.
 
 Décision :
 
-- Inventory Compactor et Unlock Plus complètent le bloc Interface & QoL / inventaire / stockage ;
-- Follower Remote complète le bloc Gameplay, Thralls & Animaux ;
-- Xevyr's Hearthstone est validé comme mod de confort gameplay / mobilité ;
-- Unlock Plus et les mods followers devront être surveillés lors des futurs tests multijoueur.
+- pack QoL avancé validé ;
+- Unlock Plus et les mods followers restent à surveiller en multijoueur prolongé.
 
-## Étape 10.7 - NSFW : Primal Instinct
+## Étape 10.7 - Contenu adulte privé : Primal Instinct
 
 Statut : **validée**.
 
@@ -244,26 +223,21 @@ Mod : **Primal Instinct**.
 
 Résumé :
 
-- bon lien Workshop confirmé par Fabien ;
 - Workshop ID officiel retenu : `3723050568` ;
-- abonnement Steam Workshop effectué ;
 - mod activé depuis le menu Mods en jeu ;
-- test réalisé en host local solo ;
-- fonctionnement validé ingame après prise en main du mod ;
+- fonctionnement validé ingame après prise en main ;
 - aucun problème bloquant signalé.
 
 Décision :
 
-- Primal Instinct est validé comme premier mod NSFW du modpack ;
-- la nudité totale reste activée par défaut dans le cadre du modpack ;
-- le mod demande une prise en main spécifique et ne se présente pas comme un simple menu de réglages classique ;
-- les futurs mods NSFW devront être testés avec prudence, idéalement un par un ou en très petit lot.
+- Primal Instinct est validé pour la partie privée entre adultes ;
+- les futurs mods de ce type doivent rester testés avec prudence.
 
 ## Étape 10.8 - Pack visuel / déco / building léger
 
 Statut : **partiellement validée**.
 
-Mods validés actuellement :
+Mods validés :
 
 - **Panda's Bloody Mess** ;
 - **More Clan Emblems Enhanced** ;
@@ -275,26 +249,16 @@ Mod rejeté :
 
 Résumé :
 
-- le pack 10.8 avait d'abord été testé avec succès ;
-- effets visuels / emblèmes / décorations / builds testés ;
-- test initial OK ;
-- builds initialement OK ;
-- lors d'un lancement ultérieur, Conan Exiles Enhanced a signalé une erreur `Corrupted Mods Detected` sur `Lisas_Building_Stone_Age.pak` ;
-- le menu Mods a ensuite affiché explicitement `<corrupted - Lisas_Building_Stone_Age.pak>` ;
-- le mod est en version bêta et venait juste d'être mis à jour ;
-- après désabonnement de Lisas Building Stone Age, le jeu a réinitialisé la modlist ;
-- Fabien a reconstruit et testé la base jusqu'au mod 22 ;
-- tout est OK jusqu'au mod 22 sans Lisas Building Stone Age.
+- les trois premiers mods sont validés ;
+- Lisas Building Stone Age a ensuite été affiché comme corrompu avec erreur de parsing ;
+- après retrait, la base redevient stable.
 
 Décision :
 
-- Panda's Bloody Mess est validé comme mod visuel / ambiance gore ;
-- More Clan Emblems Enhanced est validé comme mod de personnalisation de clan ;
-- SH - Decorations est validé comme mod de décoration ;
-- Lisas Building Stone Age est rejeté définitivement pour instabilité / fichier corrompu ;
-- Pickup+, Less Building Placement Restrictions et LBPR Additional Features restent différés car non visibles via le filtre Workshop Enhanced au moment de la recherche.
+- Lisas Building Stone Age est rejeté définitivement ;
+- Pickup+, Less Building Placement Restrictions et LBPR Additional Features restent différés car non visibles via filtre Enhanced au moment de la recherche.
 
-## Étape 10.9 - Pack apparence / cosmétique / NSFW léger
+## Étape 10.9 - Pack apparence / cosmétique
 
 Statut : **validée**.
 
@@ -306,22 +270,14 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
 - test réalisé directement en mode Coop ;
-- Topfreedom Enhanced validé ingame ;
-- Tanny's WDV Tattoos und Narben - Enhanced validé ingame ;
-- Sacred Lust armor set validé ingame ;
+- les trois mods sont validés ingame ;
 - aucun problème bloquant signalé.
 
 Décision :
 
-- Topfreedom Enhanced est validé comme mod cosmétique / NSFW léger ;
-- Tanny's WDV Tattoos und Narben - Enhanced est validé comme mod de tatouages / cicatrices ;
-- Sacred Lust armor set est validé comme mod d'armure / cosmétique / NSFW léger ;
-- Katis_Tattoos est rejeté / différé à cause de sa dépendance Tot Custom, non retenue pour l'objectif coop ;
-- [Enhanced] Face It est rejeté / différé à cause de sa dépendance Tot Sudo, non retenue pour conserver une base coop propre ;
-- les tests effectués directement en mode Coop deviennent la référence de validation principale du projet.
+- pack cosmétique validé ;
+- Katis_Tattoos et Face It Enhanced restent rejetés / différés à cause de dépendances non retenues pour la coop.
 
 ## Étape 10.10 - Pack craft / réparation / stockage
 
@@ -336,23 +292,13 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
 - test réalisé directement en mode Coop ;
-- Craftable Armor Scraps validé ingame ;
-- TDI_LegendaryRepair validé ingame ;
-- Organizer Sorting Chest validé ingame ;
-- Automatic Fish Trap validé ingame ;
-- le Sorting Chest fonctionne nickel, y compris avec Unlock Plus déjà présent ;
-- aucun problème bloquant signalé.
+- les quatre mods sont validés ;
+- Organizer Sorting Chest fonctionne correctement avec Unlock Plus.
 
 Décision :
 
-- Craftable Armor Scraps est validé comme mod de craft / ressources ;
-- TDI_LegendaryRepair est validé comme mod de réparation / confort progression ;
-- Organizer Sorting Chest est validé comme mod de stockage / tri ;
-- Automatic Fish Trap est validé comme mod de ressources / automatisation légère ;
-- la compatibilité Organizer Sorting Chest + Unlock Plus est jugée positive à ce stade.
+- pack craft / réparation / stockage validé.
 
 ## Étape 10.10b - Revalidation de la base après reset modlist
 
@@ -363,13 +309,11 @@ Résumé :
 - après l'erreur sur Lisas Building Stone Age, Conan a réinitialisé la modlist ;
 - Fabien a reconstruit la modlist active sans Lisas Building Stone Age ;
 - test effectué jusqu'au mod 22 ;
-- tout est OK jusqu'au mod 22 ;
-- la base active actuelle est considérée saine.
+- tout est OK jusqu'au mod 22.
 
 Décision :
 
-- poursuivre la construction du modpack depuis cette base active saine ;
-- ne plus réintégrer Lisas Building Stone Age dans le modpack.
+- poursuivre la construction du modpack depuis cette base saine.
 
 ## Étape 10.11 - Pack gameplay léger / confort coop
 
@@ -384,8 +328,6 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
 - test réalisé directement en mode Coop ;
 - jeu stable ;
 - aucune erreur signalée ;
@@ -393,10 +335,7 @@ Résumé :
 
 Décision :
 
-- Player Ignores Follower Collision est validé comme mod de confort followers / coop ;
-- Enhanced Gliders est validé comme mod de mobilité / exploration ;
-- LegitReligious est validé comme mod de religion / progression légère, à surveiller en usage prolongé ;
-- Diverse Barkeeps est validé comme mod d'ambiance NPC ;
+- pack gameplay léger validé ;
 - la base active passe à **26 mods validés**.
 
 ## Étape 10.12 - Pack craft / sorcellerie / cuisine
@@ -411,20 +350,14 @@ Mods :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
 - test réalisé directement en mode Coop ;
-- test ingame validé ;
 - jeu stable et fluide ;
 - aucune erreur signalée ;
 - pack validé.
 
 Décision :
 
-- Craftable Legendaries est validé comme mod de craft / progression / équipement légendaire ;
-- Sorcery Tweaks Enhanced est validé comme mod de sorcellerie / gameplay léger ;
-- Dark Decention Cooking and Brewing est validé comme mod de cuisine / brassage / recettes ;
-- Craftable Legendaries devra être surveillé côté équilibrage en usage prolongé ;
+- pack craft / sorcellerie / cuisine validé ;
 - la base active passe à **29 mods validés**.
 
 ## Étape 10.13 - Pack building / décoration avancée
@@ -439,25 +372,15 @@ Mods initialement testés :
 
 Résumé :
 
-- abonnements Steam Workshop effectués ;
-- mods activés depuis le menu Mods en jeu ;
 - test réalisé directement en mode Coop ;
 - jeu stable ;
 - aucune erreur signalée ;
 - pièces de construction testées et OK ;
 - pack initialement validé.
 
-Anomalie mineure observée :
+Anomalie :
 
 - l'intro du jeu ne pouvait plus être passée au clic souris.
-
-Décision initiale :
-
-- Ancient Civilization - Enhanced est validé comme mod building / décoration avancée ;
-- Desert Town est validé comme mod building / décoration avancée ;
-- Enhanced Builder 2026.5.9 avait été validé comme mod building / construction avancée ;
-- l'anomalie de l'intro avait d'abord été notée comme mineure et non bloquante ;
-- la base active était passée temporairement à **32 mods validés**.
 
 Correction ultérieure :
 
@@ -472,26 +395,15 @@ Mod : **The Compendium of Crawling Chaos Enhanced Edition**.
 Résumé :
 
 - mod testé seul après la base stable de 32 mods ;
-- mod placé provisoirement après **Sorcery Tweaks Enhanced** pour test ;
-- test réalisé dans l'environnement Coop / host local ;
 - freeze complet du PC observé ;
 - clavier inopérant ;
 - `CTRL + ALT + SUPPR` sans réponse ;
-- redémarrage forcé via bouton physique du PC nécessaire.
-
-Action corrective :
-
-- désabonnement du mod ;
-- relance du jeu sans le mod ;
-- retour à la base validée de 32 mods ;
-- plus de freeze après retrait ;
-- environnement redevenu stable.
+- redémarrage forcé via bouton physique nécessaire ;
+- retour à la stabilité après désabonnement.
 
 Décision :
 
-- mod non retenu pour le modpack Coop local à ce stade ;
-- mod à ne pas réintégrer sans nouvelle version, correctif ou test dédié ultérieur ;
-- la base officielle reste provisoirement à **32 mods actifs validés**, avant correction de l'étape 10.15.
+- mod non retenu pour le modpack Coop local à ce stade.
 
 ## Étape 10.15 - Retrait de Enhanced Builder 2026.5.9
 
@@ -501,89 +413,193 @@ Mod concerné : **Enhanced Builder 2026.5.9**.
 
 Résumé :
 
-- Fabien a identifié **Enhanced Builder 2026.5.9** comme le mod responsable de l'anomalie de l'intro ;
-- symptôme : l'intro du jeu ne peut plus être passée au clic souris ;
-- l'anomalie avait d'abord été considérée comme mineure et non bloquante après l'étape 10.13 ;
-- décision prise ensuite : retirer le mod afin de conserver une expérience joueur propre dès le lancement.
+- mod identifié comme responsable de l'intro non passable au clic souris ;
+- décision prise : retirer le mod pour conserver une expérience joueur propre.
 
 Action corrective :
 
 - Enhanced Builder 2026.5.9 est retiré du load order actif ;
 - Ancient Civilization - Enhanced et Desert Town restent validés ;
-- la base officielle redescend de **32 mods actifs validés** à **31 mods actifs validés**.
+- la base officielle redescend à **31 mods actifs validés**.
 
 Décision :
 
-- Enhanced Builder 2026.5.9 est déplacé dans les mods rejetés / différés après test ;
-- ne pas le réintégrer sans nouvelle version, correctif ou test isolé spécifique ;
-- poursuivre la construction du modpack depuis la base stable de **31 mods actifs**.
+- Enhanced Builder 2026.5.9 est déplacé dans les mods rejetés / différés après test.
 
-## Étape 10.16 - Test isolé : [Enhanced] Derketo Acolyte Replacer
+## Étape 10.16 - Test isolé : Derketo Acolyte Replacer
 
 Statut : **validée**.
 
-Mod :
-
-- **[Enhanced] Derketo Acolyte Replacer**.
-
 Résumé :
 
-- mod ajouté après retrait de Enhanced Builder 2026.5.9 ;
-- base de départ : 31 mods actifs validés ;
-- mod activé dans le menu Mods en jeu ;
-- lancement du jeu OK ;
+- mod ajouté après retrait de Enhanced Builder ;
+- lancement OK ;
 - chargement Coop / host local OK ;
 - test ingame validé ;
-- aucune erreur signalée ;
-- aucun freeze ;
-- aucun comportement bloquant observé.
+- aucune erreur, aucun freeze, aucun comportement bloquant.
 
 Décision :
 
-- [Enhanced] Derketo Acolyte Replacer est validé comme mod cosmétique / NSFW léger ;
+- Derketo Acolyte Replacer est validé ;
 - la base active passe à **32 mods actifs validés**.
 
 ## Étape 10.17 - Test isolé : CNC - Enhanced
 
 Statut : **validée**.
 
-Mod :
-
-- **CNC - Enhanced**.
-
 Résumé :
 
-- mod ajouté après la base stable de 32 mods ;
 - intro toujours passable au clic souris ;
 - lancement du jeu OK ;
 - chargement en jeu OK ;
 - test ingame validé ;
-- aucune erreur signalée ;
-- aucun freeze ;
-- aucun comportement bloquant observé.
+- aucune erreur, aucun freeze, aucun comportement bloquant.
 
 Décision :
 
-- CNC - Enhanced est validé comme mod cosmétique / contenu léger ;
+- CNC - Enhanced est validé ;
 - la base active passe à **33 mods actifs validés**.
 
-## Étape 10.18 - Test isolé : [DrK] Spiders to Scorpions [ENHANCED]
+## Étape 10.18 - Test isolé : DrK Spiders to Scorpions
 
 Statut : **validée**.
-
-Mod :
-
-- **[DrK] Spiders to Scorpions [ENHANCED]**.
 
 Résumé :
 
 - mod ajouté après la base stable de 33 mods ;
 - test ingame validé ;
 - aucun CTD ;
+- aucun freeze.
+
+Décision :
+
+- DrK Spiders to Scorpions est validé ;
+- la base active passe à **34 mods actifs validés**.
+
+## Étape 10.19 - Test isolé : HyperBoreanReforged
+
+Statut : **validée**.
+
+Résumé :
+
+- mod ajouté après la base stable de 34 mods ;
+- test ingame positif ;
+- aucun crash ;
 - aucun freeze ;
+- inventaire OK ;
+- craft OK ;
+- interface OK ;
 - aucun comportement bloquant observé.
 
 Décision :
 
-- [DrK] Spiders to Scorpions [ENHANCED] est validé comme mod créatures / gameplay léger ;
-- la base active passe à **34 mods actifs validés**.
+- HyperBoreanReforged est validé comme mod de contenu / équipement / ambiance ;
+- placement officiel : entre CNC - Enhanced et Craftable Armor Scraps - Enhanced ;
+- la base active passe à **35 mods actifs validés**.
+
+## Étape 10.20 - Test isolé : The Purge mod by Xevyr
+
+Statut : **validation partielle — intégration OK**.
+
+Résumé :
+
+- mod ajouté après la base stable de 35 mods ;
+- aucun message corrupted ;
+- aucune dépendance manquante ;
+- aucun CTD ;
+- aucun freeze ;
+- inventaire OK ;
+- interface OK ;
+- intégration technique validée.
+
+Décision :
+
+- The Purge mod est accepté provisoirement dans le load order ;
+- test fonctionnel dédié requis avant validation complète.
+
+## Étape 10.20b - Test fonctionnel contrôlé : The Purge mod
+
+Statut : **validée**.
+
+Résumé :
+
+- test fonctionnel réalisé sur une mini-base sacrifiable ;
+- console ouverte après bascule temporaire du clavier Windows en Anglais / QWERTY ;
+- touche physique `²` utilisée pour ouvrir la console ;
+- commande `dc purgeconfig` fonctionnelle ;
+- panneau Purge Settings ouvert avec succès ;
+- commande `dc purgelist` fonctionnelle ;
+- commande `dc startpurge [index]` fonctionnelle après sélection d'un index de purge valide ;
+- ennemis spawnés correctement ;
+- cris de guerre et comportement d'attaque observés ;
+- aucun CTD signalé ;
+- aucun freeze signalé.
+
+Décision :
+
+- The Purge mod passe de validation partielle à validation complète ;
+- la base active passe à **36 mods actifs validés**.
+
+## Étape 10.21 - Test isolé : Navi's Revived Leveling Enhanced
+
+Statut : **validée**.
+
+Résumé :
+
+- mod de progression / leveling Enhanced ;
+- extension du niveau maximum au-delà du niveau vanilla 60 ;
+- test réalisé par paliers jusqu'au niveau 80 ;
+- progression fonctionnelle ;
+- aucun message corrupted ;
+- aucune dépendance manquante ;
+- aucun CTD ;
+- aucun freeze ;
+- inventaire OK ;
+- interface OK ;
+- fiche personnage / progression OK.
+
+Décision :
+
+- Navi's Revived Leveling Enhanced est retenu comme mod de progression / leveling ;
+- les autres mods de leveling plus extrêmes ou moins lisibles sont écartés ;
+- la base active passe à **37 mods actifs validés**.
+
+## Étape 10.22 - Test isolé : Wicked Webs of Zamora UE5
+
+Statut : **validée**.
+
+Résumé :
+
+- mod de construction / building ajouté après la base stable de 37 mods ;
+- test ingame validé ;
+- éléments de construction testés ;
+- aucun message corrupted signalé ;
+- aucune dépendance manquante signalée ;
+- aucun CTD ;
+- aucun freeze ;
+- inventaire OK ;
+- interface OK ;
+- système de construction OK ;
+- aucun comportement bloquant observé.
+
+Décision :
+
+- Wicked Webs of Zamora UE5 est validé comme mod de construction / building ;
+- la base active passe à **38 mods actifs validés**.
+
+## Étape 10.23 - Clôture provisoire de la phase d'installation des mods
+
+Statut : **validée**.
+
+Résumé :
+
+- tous les mods raisonnables de la liste initiale ont été testés, retenus, rejetés ou remplacés ;
+- aucun autre mod restant n'est prévu pour installation immédiate ;
+- le fichier `modlist.txt` réel fourni par Fabien devient la référence terrain ;
+- le load order officiel est recalé sur ce fichier ;
+- base finale actuelle : **38 mods actifs validés**.
+
+Décision :
+
+- fin provisoire de la phase d'installation de mods ;
+- prochaine étape recommandée : test de stabilité prolongé en Coop / host local avec les 38 mods actifs.
