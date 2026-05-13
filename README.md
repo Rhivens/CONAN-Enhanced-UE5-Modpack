@@ -70,7 +70,7 @@ Le modpack intègre progressivement :
 - host local solo validé ;
 - tests effectués directement en Coop / host local pour la construction de la modlist ;
 - orientation NSFW validée ;
-- modlist actuelle stabilisée à **39 mods actifs validés**.
+- modlist actuelle stabilisée à **40 mods actifs validés**.
 
 ## Suivre l'avancement du projet
 
