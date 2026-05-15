@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Phenix%20Conan%20Enhanced%20-%20Blood%20and%20Sand%20Edition.png" alt="Phénix Conan Enhanced — Blood & Sand Edition" width="720">
+  <img src="assets/Phenix%20Conan%20Enhanced%20-%20Blood%20and%20Sand%20Edition%20TR.png" alt="Phénix Conan Enhanced — Blood & Sand Edition" width="720">
 </p>
 
 # Phénix Conan Enhanced — Blood & Sand Edition
