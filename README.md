@@ -78,7 +78,7 @@ Le modpack intègre progressivement :
 - host local solo validé ;
 - tests effectués directement en Coop / host local pour la construction de la modlist ;
 - orientation NSFW validée ;
-- modlist actuelle stabilisée à **40 mods actifs validés**.
+- modlist actuelle stabilisée à **41 mods actifs validés**.
 
 ## Suivre l'avancement du projet
 
@@ -88,7 +88,7 @@ C'est le meilleur point d'entrée pour suivre l'évolution du modpack : dernièr
 
 ## Liens utiles
 
-- **[Collection Steam Workshop officielle](https://steamcommunity.com/sharedfiles/filedetails/?id=3725646502)**
+- **[Collection Steam Workshop officielle](https://steamcommunity.com/sharedfiles/filedetails/?id=3726259113)**
 - **[Guide d'installation joueurs](docs/11_installation_joueurs.md)**
 - **[Modlist de référence et load order](docs/12_modlist_reference.md)**
 - **[Mods NSFW](docs/13_mods_nsfw.md)**
