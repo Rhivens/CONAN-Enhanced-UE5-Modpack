@@ -57,6 +57,14 @@ Résultat :
 - aucun stutter constaté ;
 - températures normales.
 
+### Modpack actif
+
+- La modlist officielle actuelle contient **41 mods actifs validés**.
+- Dernier ajout validé : **[Enhanced] EAA - Lv50 Thralls**.
+- Dernier rejet confirmé : **[Enhanced] More T4 Thralls Plus - v1.0.0**, responsable d'un crash ingame immédiat.
+- Le load order officiel est suivi dans `docs/12_modlist_reference.md`.
+- Les validations et rejets sont suivis dans `docs/99_changelog_validation.md`.
+
 ### Hébergement
 
 - PC hôte : i9, 64 Go RAM, RTX 4070 12 Go.
@@ -78,4 +86,6 @@ Il n'est pas bloquant grâce aux éléments suivants :
 
 ## Prochaine phase
 
-Définir et remplir progressivement l'architecture du modpack, en commençant par les catégories les moins risquées : interface, QoL, puis building et décoration.
+Poursuivre les ajouts éventuels uniquement par tests isolés ou mini-lots très raisonnables, en priorité avec les mods qui ne touchent pas aux systèmes sensibles.
+
+Les mods modifiant les thralls, les spawns, la purge, la progression ou les systèmes globaux doivent rester testés seuls.
