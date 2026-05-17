@@ -17,7 +17,7 @@ Tous les joueurs doivent utiliser les mêmes mods, dans le même ordre, sans mod
 | 5 | Simple Modlist | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290) | `3719546290` | `SimpleModlist.pak` | Information modlist | Validé | Utile pour vérifier les mods actifs. |
 | 6 | Fashionist | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242) | `3720921242` | `StylistPlus.pak` | Apparence | Validé | Gestion cosmétique. |
 | 7 | Better Thralls | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511) | `3720904511` | `BetterThralls.pak` | Thralls / compagnons | Validé | À surveiller en usage prolongé. |
-| 8 | [Enhanced] EAA - Lv50 Thralls | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3725707777) | `3725707777` | `à confirmer depuis le modlist.txt réel` | Thralls / pets / progression | Validé | Étape 10.26 ; cap niveau 50 confirmé avec `LevelFollowerUpTo 21` puis `LevelFollowerUpTo 50`. |
+| 8 | [Enhanced] EAA - Lv50 Thralls | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3725707777) | `3725707777` | `EAA_ThrallLevelIncrease.pak` | Thralls / pets / progression | Validé | Étape 10.26 ; cap niveau 50 confirmé avec `LevelFollowerUpTo 21` puis `LevelFollowerUpTo 50`. |
 | 9 | Inventory Compactor | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718614759) | `3718614759` | `Inventory_compactor.pak` | Inventaire | Validé | Compactage et rangement. |
 | 10 | Unlock Plus | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133) | `3720948133` | `UnlockableContainers.pak` | Stockage / QoL | Validé | Compatible avec Organizer Sorting Chest à ce stade. |
 | 11 | Follower Remote | [Ouvrir](https://steamcommunity.com/sharedfiles/filedetails/?id=3718523921) | `3718523921` | `Thrall_Commander.pak` | Thralls / compagnons | Validé | Commande : `dc frsettings`. |
@@ -78,7 +78,7 @@ Point important : **HyperBoreanReforged** reste officiellement placé entre **CN
 
 Dernier ajout validé : **[Enhanced] EAA - Lv50 Thralls**.
 
-Point à confirmer : le nom exact du fichier `.pak` de **[Enhanced] EAA - Lv50 Thralls** devra être recopié depuis le prochain `modlist.txt` réel.
+Nom exact du fichier `.pak` confirmé depuis le `modlist.txt` réel : `EAA_ThrallLevelIncrease.pak`.
 
 ## Notes importantes
 
